@@ -1,5 +1,4 @@
-# This asks the user for their first name
-name=str(input("Enter your first name:"))
-# This prints a greeting using their name
-print("Hello,",name+ "!Welcome to C344.")
-
+#This asks the user for their first name
+name=str(input("Please enter your first name:"))
+#This will prints a greeting using their first name
+print("Hello", name+ "! Welcome to CS344.")
