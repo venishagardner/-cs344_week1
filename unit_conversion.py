@@ -6,4 +6,3 @@ celsius=(fahrenheit-32)*5/9
 print("Fahrenheit:", fahrenheit)
 # Show the converted Celsius temperature
 print("Celsius:", celsius)
-
