@@ -1,3 +1,11 @@
+# Planned functions:
+
+# get_score() - gets the numeric score from the user
+
+# calculate_grade(score) - determines the letter grade
+
+# display_result(score, letter_grade) - displays the result or an error
+
 #Fucntion to get the users's score
 def get_score():
     score = int(input("Enter a numeric score from 0 to 100:"))
